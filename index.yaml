@@ -9,7 +9,6 @@ entries:
     name: chaosmesh-app
     type: application
     urls:
-    - chaosmesh-app-0.1.0.tgz
     - chaosmesh-app-0.2.0.tgz
     version: 0.2.0
 generated: "2023-01-10T20:43:08.284973+05:30"
