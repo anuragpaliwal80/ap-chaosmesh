@@ -3,12 +3,32 @@ entries:
   chaosmesh-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-10T20:43:08.287286+05:30"
+    created: "2023-01-11T19:29:41.900279+05:30"
     description: A Helm chart for Kubernetes
-    digest: 06597789a86353991ccdd8e6834a1501089782877614a83981547269eed8cdd9
+    digest: 241009fb540b386d9fd9b2939220112dc476eb7f3e1b0bc9b049f4dd117990df
+    name: chaosmesh-app
+    type: application
+    urls:
+    - chaosmesh-app-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-11T19:29:41.89996+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 97918fe9b706d6c442e199931a8f54934374f32b7849835cf709813c4c9a3a5e
     name: chaosmesh-app
     type: application
     urls:
     - chaosmesh-app-0.2.0.tgz
     version: 0.2.0
-generated: "2023-01-10T20:43:08.284973+05:30"
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-11T19:29:41.899249+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 06597789a86353991ccdd8e6834a1501089782877614a83981547269eed8cdd9
+    name: chaosmesh-app
+    type: application
+    urls:
+    - chaosmesh-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-01-11T19:29:41.898476+05:30"
